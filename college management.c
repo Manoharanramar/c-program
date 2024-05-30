@@ -2,7 +2,7 @@
 struct Student {
     int id;
     char name[50];
-    // Add more fields as needed
+    // Add more number of fields as needed
 };
 
 struct Course {
